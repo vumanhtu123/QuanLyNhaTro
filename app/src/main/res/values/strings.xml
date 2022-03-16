@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quan Ly Nha Tro</string>
+    <string name="nhap_user">Mời Nhập Tên User</string>
+    <string name="nhap_pass">Mời Nhập Pass User</string>
+    <string name="luumatkhau">Lưu Mật Khẩu</string>
+    <string name="quenmatkhau"><u>Quên mật khẩu ?</u></string>
+</resources>
